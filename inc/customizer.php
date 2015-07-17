@@ -389,7 +389,7 @@ function pix_options_typography_general( $fields ) {
     $fields[] = array(
        'type'        => 'selectfont',
        'settings'    => 'pix_typography_font_subsets',
-       'label'       => __( 'Font weight', 'twentyfifteen' ),
+       'label'       => __( 'Font subsets', 'twentyfifteen' ),
        'section'     => 'pix_typography_general_section',
        'default'     => '',
        'priority'    => 10,
